@@ -1,90 +1,103 @@
 <div align="center">
 
-# N Ø X
+<!-- NØX / PROFILE HEADER -->
 
-### INDEPENDENT TECHNOLOGY LAB
+<img src="./assets/nox-banner.gif" width="100%" alt="NØX — Digital underground" />
 
-`SECURITY` / `SYSTEMS` / `ENGINEERING` / `RESEARCH`
+# `NØX.exe`
 
-[![Focus](https://img.shields.io/badge/FOCUS-SECURITY-FFFFFF?style=flat-square&labelColor=000000)](https://github.com/nox-labs)
-[![Code](https://img.shields.io/badge/CODE-MULTI--LANG-FFFFFF?style=flat-square&labelColor=000000)](https://github.com/nox-labs)
-[![Mindset](https://img.shields.io/badge/MINDSET-BUILD-FFFFFF?style=flat-square&labelColor=000000)](https://github.com/nox-labs)
+**`// independent developer · phantom · all-rounder`**
 
-**Move in silence. Build without limits.**
+*Move in silence. Build without limits.*
+
+[![Profile](https://img.shields.io/badge/PROFILE-UNDERGROUND-9D00FF?style=flat-square)](https://github.com/nox-labs)
+[![Focus](https://img.shields.io/badge/FOCUS-CYBERSECURITY-9D00FF?style=flat-square)](#)
+[![Status](https://img.shields.io/badge/STATUS-BUILDING-9D00FF?style=flat-square)](#)
 
 </div>
 
 ---
 
-## `01 / PROFILE`
+## Eu sou o NØX.exe!
 
-Independent developer exploring software engineering,
-cybersecurity, automation and system architecture.
+> Um desenvolvedor independente explorando o mundo da tecnologia, segurança e sistemas.
 
-Interested in understanding how systems work,
-identifying weaknesses and building reliable solutions.
+- ⛧ Estudando como sistemas funcionam por dentro.
+- ⛧ Construindo ferramentas e projetos próprios.
+- ⛧ Explorando programação, redes e cibersegurança.
+- ⛧ Focado em privacidade, automação e independência.
+- ⛧ Aprendendo continuamente. Construindo em silêncio.
 
-The goal is simple: turn technical knowledge into
-useful tools, documented research and real projects.
+`[ ACCESS GRANTED ]` — Knowledge is power.
 
-## `02 / DOMAINS`
+---
 
-- Software engineering and automation
-- Cybersecurity and defensive security
-- Linux, networking and infrastructure
-- Application security and secure development
-- Cryptography and privacy engineering
-- Open-source tools and independent projects
+## Social
 
-## `03 / TECHNOLOGIES`
+<div align="left">
 
-![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-000000?style=flat-square&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white)
+[![GitHub](https://img.shields.io/badge/GitHub-NØX-181717?style=flat-square&logo=github)](https://github.com/nox-labs)
+[![Instagram](https://img.shields.io/badge/Instagram-UNDERGROUND-833AB4?style=flat-square&logo=instagram&logoColor=white)](#)
+[![Discord](https://img.shields.io/badge/Discord-COMMUNITY-5865F2?style=flat-square&logo=discord&logoColor=white)](#)
 
-## `04 / SELECTED PROJECTS`
+</div>
 
-| Project | Purpose |
+---
+
+## ⛧ NØX Underground / Lab
+
+`RESEARCH • BUILD • REPEAT`
+
+Um espaço dedicado a experimentos, projetos independentes,
+automação e estudos de segurança em ambientes autorizados.
+
+---
+
+## SKILLS & HACKING STACK
+
+### Web / Frontend
+
+![HTML](https://img.shields.io/badge/HTML-111111?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-111111?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript)
+
+### Programming
+
+![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python)
+![C](https://img.shields.io/badge/C-111111?style=flat-square&logo=c)
+![Go](https://img.shields.io/badge/Go-111111?style=flat-square&logo=go)
+![Rust](https://img.shields.io/badge/Rust-111111?style=flat-square&logo=rust)
+
+### Systems / Security
+
+![Linux](https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux)
+![Git](https://img.shields.io/badge/Git-111111?style=flat-square&logo=git)
+![Docker](https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker)
+
+---
+
+## Featured Projects
+
+| Repository | Description |
 |---|---|
-| `nox-toolkit` | Developer and security utilities |
-| `nox-sentinel` | Defensive monitoring and log analysis |
-| `nox-vault` | Local secrets-management learning project |
-| `nox-lab` | Reproducible cybersecurity lab |
-| `nox-automata` | Workflow and system automation |
+| `nox-sentinel` | Análise defensiva de logs |
+| `nox-toolkit` | Ferramentas e automação |
+| `nox-lab` | Laboratório de segurança |
+| `nox-vault` | Estudos de proteção de dados |
 
-*Project names represent planned work until implemented.*
-
-## `05 / ENGINEERING PRINCIPLES`
-
-- Understand before optimizing.
-- Security is part of the design.
-- Automate repetitive work.
-- Document assumptions and limitations.
-- Test in controlled, authorized environments.
-- Prefer evidence over speculation.
-
-## `06 / CURRENT MISSION`
-
-Build tools that solve real problems.
-
-Study systems from the inside out.
-
-Share reproducible experiments and useful documentation.
-
-Improve the work with every iteration.
+*Projetos planejados — os repositórios serão adicionados conforme forem desenvolvidos.*
 
 ---
 
 <div align="center">
 
-`NØX / 001`
+```text
+LESS NOISE.
+MORE KNOWLEDGE.
+MORE CONTROL.
+```
 
-**LESS NOISE. MORE PROGRESS.**
+**`NØX / 001`**
 
 </div>
