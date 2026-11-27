@@ -37,7 +37,7 @@
 <div align="left">
 
 [![GitHub](https://img.shields.io/badge/GitHub-NØX-181717?style=flat-square&logo=github)](https://github.com/nox-labs)
-[![Instagram](https://img.shields.io/badge/Instagram-UNDERGROUND-833AB4?style=flat-square&logo=instagram&logoColor=white)](#)
+
 [![Discord](https://img.shields.io/badge/Discord-COMMUNITY-5865F2?style=flat-square&logo=discord&logoColor=white)](#)
 
 </div>
